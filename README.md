@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tobechi15
-- 👀 I’m interested in web development and EA Development
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in web development software development and EA Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Twitter or Instagram @itsTobechi
 - 
